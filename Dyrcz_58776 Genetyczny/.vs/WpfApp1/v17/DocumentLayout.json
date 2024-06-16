@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|c:\\users\\przemek\\desktop\\wpfapp1\\wpfapp1\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Przemek\\Desktop\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Przemek\\Desktop\\WpfApp1\\wpfapp1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Przemek\\Desktop\\WpfApp1\\wpfapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Przemek\\Desktop\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68706392-1D07-4354-B0CC-3CB52CE7F1C5}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\Class3.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Class3.cs",
+              "ToolTip": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\Class3.cs",
+              "RelativeToolTip": "WpfApp1\\Class3.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwJMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:03:28.308Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:01:03.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T15:01:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\Class2.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Class2.cs",
+              "ToolTip": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\Class2.cs",
+              "RelativeToolTip": "WpfApp1\\Class2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:02:57.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Przemek\\Desktop\\WpfApp1\\WpfApp1\\Class1.cs",
+              "RelativeToolTip": "WpfApp1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:02:36.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
